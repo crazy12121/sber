@@ -52,7 +52,7 @@
 }
 /*класс для текстовых блоков с их параметрами (используется в файлах типа otv)*/
 .texts {
-  background-color: #00ADEE;
+  background-color: #FFFF00;
   font size: 3vw;
   padding: 2vw;
   min-width: 40vw;
